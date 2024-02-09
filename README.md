@@ -1,10 +1,14 @@
 # Age Calculator
 
-This is a simple web application developed using HTML, CSS, JavaScript, and Bootstrap to calculate the age of a person based on their date of birth.
+The Age Calculator is a simple web application developed using HTML, CSS, JavaScript, and Bootstrap. It allows users to calculate their age based on their date of birth.
 
 ## Description
 
-The Age Calculator web app allows users to input their name and date of birth and calculates their age based on the current date. It displays the result in a modal window.
+The Age Calculator web app enables users to input their name and date of birth. Upon clicking the "Calculate" button, it computes the user's age based on the current date and displays the result in a modal window.
+
+## Live Demo
+
+Check out the live demo of the Age Calculator: [Age Calculator Demo](https://mrji421.github.io/Age_Calculator_JS/)
 
 ## Features
 
@@ -22,7 +26,7 @@ The Age Calculator web app allows users to input their name and date of birth an
 
 ## Installation
 
-You can simply download or clone the repository to get the code and run it locally on your machine. Since it's a frontend-only application, you don't need any special setup or dependencies.
+You can download or clone the repository to get the code and run it locally on your machine. Since it's a frontend-only application, no special setup or dependencies are required.
 
 ## Credits
 
@@ -30,7 +34,6 @@ You can simply download or clone the repository to get the code and run it local
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Feel free to contribute to the project by reporting issues or submitting pull requests.
-
